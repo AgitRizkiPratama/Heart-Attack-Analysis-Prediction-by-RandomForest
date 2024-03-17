@@ -4,6 +4,8 @@
 
 Mantee Assignment from IBM Advance AI @ Infinite Learning Course completion of Heart-Attack-Analysis-Prediction-by-RandomForest from Kaggle
 
+Link: https://www.kaggle.com/code/ahmedghonem01/heart-attack-analysis-prediction-by-randomforest/notebook
+
 ## More Info Mantee
 
 Name      : Agit Rizki Pratama
